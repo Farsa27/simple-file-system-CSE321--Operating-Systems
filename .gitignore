@@ -1,0 +1,4 @@
+simplefs_builder
+simplefs_adder
+*.img
+*.o
